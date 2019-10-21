@@ -8,4 +8,4 @@ taste.
 
 The code works on coq.8.4.6 with ocaml 4.02.0.
 
-Nor all of the solutions are optimized or correct. Just for fun.
+Not all of the solutions are optimized or correct. Just for fun.
